@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+background-color: #003E42;
+}
+.first{
+    height: 250px;
+    width: 350px;
+    background-color: #01363A;
+    display: grid;
+    margin: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+    flex-direction: column;
+}
+
+.bi{
+    position: relative;
+    top: 20px;
+    color: orangered;
+    cursor: pointer;
+}
+.bi:hover{
+    color: aquamarine;
+}
+.second{
+    height: 250px;
+    width: 350px;
+    background-color: #01363A;
+    display: grid;
+    margin: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+    flex-direction: column;
+}
+
+
+
+
+.third{
+    height: 250px;
+    width: 350px;
+    background-color: #01363A;
+    display: grid;
+    margin: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+    flex-direction: column;
+    
+}
+img{
+    border: 2px solid white;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.four{
+    height: 250px;
+    width: 350px;
+    background-color: #01363A;
+    display: grid;
+    margin: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+    flex-direction: column;
+}
+.five{
+    height: 250px;
+    width: 350px;
+    background-color: #01363A;
+    display: grid;
+    margin: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+    flex-direction: column;
+}
+.six{
+    height: 250px;
+    width: 350px;
+    background-color: #01363A;
+    display: grid;
+    margin: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+    flex-direction: column;
+}
+
+.Sarlavha{
+color: white;
+display: flex;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
